@@ -1,0 +1,29 @@
+# Site settings
+title: "Mái Chùa Xưa"
+url-title: "Về Quê"
+description: "Đoàn Bình và nơi bình yên"
+paginate: 100
+url: "https://teachmeinvest.com/"
+permalink: /:year/:month/:title/
+future: false
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_words: 25
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+  deploy_style: compressed
+
+gems: [jekyll-paginate]
