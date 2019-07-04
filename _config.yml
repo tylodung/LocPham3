@@ -3,7 +3,7 @@ title: "Mái Chùa Xưa"
 url-title: "Về Quê"
 description: "Đoàn Bình và nơi bình yên"
 paginate: 100
-url: "https://siteltech.com/"
+url: "https://ericcar.info/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
