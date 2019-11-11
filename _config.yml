@@ -1,9 +1,9 @@
 # Site settings
-title: "Mái Chùa Xưa"
+title: "opensystech"
 url-title: "Về Quê"
 description: "Đoàn Bình và nơi bình yên"
 paginate: 100
-url: "https://ericcar.info/"
+url: "https://opensystech.com/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
