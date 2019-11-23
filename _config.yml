@@ -1,9 +1,9 @@
 # Site settings
-title: "opensystech"
+title: "tbvshare"
 url-title: "Về Quê"
 description: "Đoàn Bình và nơi bình yên"
 paginate: 100
-url: "https://opensystech.com/"
+url: "https://tbvshare.info/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
