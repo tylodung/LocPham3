@@ -1,5 +1,5 @@
 ---
-title: Chùa Đại Tòng Lâm
+title: Chùa Đại Tòng Lâm là một ngôi đại tự có nhiều công trình quy mô và hiện đại
 image: chua-dai-tong.jpg
 
 ---
@@ -12,7 +12,7 @@ Chùa Đại Tòng Lâm, tên đầy đủ là Vạn Phật Quang Đại Tòng L
 
 **Lịch sử**
 
-Ngôi chùa do Hòa thượng Thích Thiện Hòa (1907-1978)[1], từ chùa Ấn Quang (Thành phố Hồ Chí Minh) đến khai sơn vào năm 1958 với mục đích xây dựng nơi đây thành một đại tòng lâm có quy mô lớn, tiến đến mở Phật học viện, quy tụ tăng ni khắp nơi về tu học, đào tạo lực lượng kế thừa thực hiện sự nghiệp hoằng pháp độ sinh. Sau khi ngài mất (1978), ý nguyện này vẫn được các vị trụ trì kế tục thực hiện.
+Ngôi chùa do Hòa thượng Thích Thiện Hòa (1907-1978), từ chùa Ấn Quang (Thành phố Hồ Chí Minh) đến khai sơn vào năm 1958 với mục đích xây dựng nơi đây thành một đại tòng lâm có quy mô lớn, tiến đến mở Phật học viện, quy tụ tăng ni khắp nơi về tu học, đào tạo lực lượng kế thừa thực hiện sự nghiệp hoằng pháp độ sinh. Sau khi ngài mất (1978), ý nguyện này vẫn được các vị trụ trì kế tục thực hiện.
 
 **Các công trình nổi bật**
 

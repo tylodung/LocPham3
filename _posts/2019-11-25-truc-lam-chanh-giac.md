@@ -1,5 +1,5 @@
 ---
-title: Thiền viện Trúc Lâm Chánh Giác
+title: Thiền viện Trúc Lâm Chánh Giác ở Tiền Giang
 image: chanh-giac.jpg
 ---
 
@@ -31,6 +31,7 @@ Sau nhiều tháng khẩn trương và vất vả thi công, đến nay thiền 
 **Hoạt động tôn giáo**
 
 Bên trong chánh điện, tượng Phật Thích Ca Mâu Ni được thờ ở giữa, hai bên là tượng Phổ Hiền Bồ Tát cưỡi voi và Văn Thù Bồ Tát cưỡi sư tử.
+
 Dù công trình quy mô này hiện vẫn còn đang được xây dựng...; song theo lệ, vào ngày Chủ nhật tuần thứ ba mỗi tháng, Thiền viện đều tổ chức sinh hoạt đạo tràng với khá đông phật tử gần xa tham dự, bao gồm các hoạt động: Tụng kinh, sám hối, nghe giảng pháp, ngồi thiền. Bên cạnh đó, định kỳ 2 tháng/lần, Thiền viện còn tổ chức lễ truyền tam quy, ngũ giới cho Phật tử. Ngoài ra, Thiền viện còn thường xuyên tiếp khách thập phương trong và ngoài tỉnh đến tham quan và chiêm bái.
 
 **Góp phần làm thay đổi diện mạo địa phương**
