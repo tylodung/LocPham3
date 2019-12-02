@@ -41,7 +41,7 @@ Chính vì những nét độc đáo của ngôi chùa này cũng phong cảnh v
 
 Chùa Linh Ứng là một trong 3 ngôi chùa cùng tên nổi tiếng ở Đà Nẵng, nằm trên Bãi Bụt, thuộc bán đảo Sơn Trà. Cả ba đều có vị trí đắc địa, hướng ra biển, xung quanh là phong cảnh vô cùng tuyệt đẹp, thơ mộng.
 
-Tại cổng chính của của chùa có hai câu " Linh Ứng sở cầu như ý nguyện Sơn Trà Bãi Bụt thật hiển linh".
+Tại cổng chính của của chùa có hai câu "Linh Ứng sở cầu như ý nguyện Sơn Trà Bãi Bụt thật hiển linh".
 
 Chùa tọa lạc tại vị trí rất đẹp, trên một ngọn đồi ở độ cao gần 700 m, sau lưng là cánh rừng nguyên sinh và hướng mặt ra biển. Nơi đây còn được biết đến là nơi cầu nguyện rất hiển linh.
 
