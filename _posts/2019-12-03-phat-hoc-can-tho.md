@@ -1,5 +1,5 @@
 ---
-title: Chùa Phật Học Cần Thơ
+title: Chùa Phật Học Cần Thơ là một trong những ngôi chùa lớn
 image: 565.jpg
 ---
 
