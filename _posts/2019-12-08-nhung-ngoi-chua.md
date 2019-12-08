@@ -3,9 +3,11 @@ title: Những ngôi chùa linh thiêng bậc nhất ở Vĩnh Phúc
 image: linh-thieng.jpg
 ---
 
-Trong tâm thức mỗi người dân Việt Nam, lễ Vu Lan (ngày 15/7 âm lịch) từ lâu đã thành một ngày trọng đại, là dịp để mỗi người hướng về nguồn cội, tỏ lòng hiếu kính với đấng sinh thành và các bậc tiền nhân... Vì vậy, các bạn Vĩnh Phúc đừng quên những ngôi chùa linh thiêng bậc nhất không thể không đến vào mùa Vu Lan năm nay.
+Trong tâm thức mỗi người dân Việt Nam, lễ Vu Lan (ngày 15/7 âm lịch) từ lâu đã thành một ngày trọng đại, là dịp để mỗi người hướng về nguồn cội, tỏ lòng hiếu kính với đấng sinh thành và các bậc tiền nhân... 
 
-1. Đền Bà
+Vì vậy, các bạn Vĩnh Phúc đừng quên những ngôi chùa linh thiêng bậc nhất không thể không đến vào mùa Vu Lan năm nay.
+
+**1. Đền Bà**
 
 Đền Bà hay còn gọi là đền Vị Thanh được xây dựng trên một khu đất cao, rộng và thoáng đãng ven đầm Vạc, nay thuộc thôn Vị Thanh, xã Thanh Trù, thành phố Vĩnh Yên. Trước đền là mặt đầm rộng mênh mông, những tán cây rợp bóng trên mặt nước và mái ngói phủ đầy rêu phong ẩn hiện khiến ta dễ liên tưởng đến hình ảnh một bến nước, sân dình quen thuộc của làng Việt. Giữa bình yên của ruộng đồng và làng xóm, ngôi đền hiện lên thâm nghiêm, cổ kính.
 
@@ -19,7 +21,7 @@ Tương truyền, có vị nữ tướng tài giỏi là Thanh Nương đã có 
 
 Tới đền Bà vào mùa lễ hội, khách tham quan không chỉ có cơ hội chiêm ngưỡng cảnh quan thanh bình, đẹp đẽ của di tích mà còn được tham dự một trong những lễ hội nông nghiệp mang những giá trị văn hóa tiêu biểu của vùng đồng bằng Bắc Bộ.
 
-2. Thiền Viện Trúc Lâm Tuệ Đức
+**2. Thiền Viện Trúc Lâm Tuệ Đức**
 
 Theo Cổng thông tin Trung tâm Thông tin – Xúc tiến Du lịch Vĩnh Phúc, Thiền viện tọa lạc tại xã Đồng Quế, huyện Sông Lô, tỉnh Vĩnh Phúc.
 
@@ -29,7 +31,7 @@ Năm 2009, Bảo tàng lịch sử Việt Nam kết hợp cùng Sở văn hóa, 
 
 Thiền viện Trúc lâm Tuệ Đức được xây dựng trên một địa thế đẹp tựa núi nhìn sông, xung quanh ngôi chính điện của Thiền viện được 03 quả núi bao quanh giống như chiếc ngai vàng bao bọc, từ ngôi chính điện này ta có thể nhìn thẳng ra sông Lô và một chiếc hồ lớn hình một ông Rùa đang cõng cả quả núi trên lưng.
 
-3. Thiền Viện Trúc Lâm Tây Thiên
+**3. Thiền Viện Trúc Lâm Tây Thiên**
 
 Thiền viện Trúc Lâm Tây Thiên thuộc xã Đại Đình, huyện Tam Đảo, cách Hà Nội khoảng 85km về phía tây. Cùng với Thiền viện Trúc Lâm Đà Lạt và Thiền viện Trúc Lâm Yên Tử, Thiền viện Trúc Lâm Tây Thiên là một trong 3 thiền viện lớn nhất của Việt Nam.
 
