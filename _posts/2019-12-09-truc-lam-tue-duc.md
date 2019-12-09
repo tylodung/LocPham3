@@ -1,5 +1,5 @@
 ---
-title: Thiền viện Trúc Lâm Tuệ Đức
+title: Thiền viện Trúc Lâm Tuệ Đức là một trong những điểm du lịch tâm linh lý tưởng
 image: tv1.jpg
 ---
 

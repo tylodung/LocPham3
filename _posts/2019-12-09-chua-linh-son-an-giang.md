@@ -1,5 +1,5 @@
 ---
-title: Chùa Linh Sơn - Ba Thê
+title: Chùa Linh Sơn được gọi là chùa Phật bốn tay núi Ba Thê
 image: chua-linh-son.jpg
 ---
 
