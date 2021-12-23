@@ -1,9 +1,9 @@
 # Site settings
-title: "tbvshare"
+title: "dichvutubi.online"
 url-title: "Về Quê"
 description: "Đoàn Bình và nơi bình yên"
 paginate: 100
-url: "https://tbvshare.info/"
+url: "https://dichvutubi.online/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
